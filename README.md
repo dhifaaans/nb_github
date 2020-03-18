@@ -18,10 +18,14 @@ Namun juga ada kekurangannya;
 · Apabila probabilitas kondisionalnya bernilai nol, maka probabilitas prediksi juga akan bernilai nol. Dirancang untuk mendeteksi kata-kata saja, tidak bisa berupa gambar
 · Keakuratannya tidak bisa diukur menggunakan satu probabilitas saja. Butuh bukti-bukti lain untuk membuktikannya.
 · Untuk membuat keputusan, diperlukan pengetahuan awal atau pengetahuan mengenai masa sebelumnya. Keberhasilannya sangat bergantung pada pengetahuan awal tersebut
+
 Contoh Kasus
 Mendeteksi apakah suatu kata tergolong ke email spam atau tidak, ppt slide saya disini
+
 
 Untuk contoh kasus, bisa langsung dilihat di :
 https://medium.com/@nadhifasofia/pengklasifikasian-email-spam-menggunakan-naive-bayes-abbf5cae550e
 
+
 Untuk video tutorial, bisa langsung dilihat di :
+https://youtu.be/lzJHyKvbezY
