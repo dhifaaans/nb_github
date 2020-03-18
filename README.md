@@ -1,5 +1,7 @@
 # nb_github
 Naive Bayes Spam Filtering
+Nadhifa Sofia (19/448721/PPA/05804)
+Data Science Assignment 3
 
 Apa itu Naive Bayes?
 Klasifikasi Naive Bayes adalah teknik statistik populer dari penyaringan email (spam / ham filtering). Mereka biasanya menggunakan fitur kata-kata untuk mengidentifikasi email spam, suatu pendekatan yang biasa digunakan dalam klasifikasi teks.
