@@ -10,14 +10,15 @@ Klasifikasi Naive Bayes adalah teknik statistik populer dari penyaringan email (
 
 Kenapa sih mesti pake Naive Bayes?
 Jadi, mengutip dari sini kelebihannya ada macem-macem;
-· Bisa dipakai untuk data kuantitatif maupun kualitatif
-· Tidak perlu melakukan data training yang banyak
-· Pengklasifikasian dokumen bisa dipersonalisasi, disesuaikan dengan kebutuhan setiap orang
+1. Bisa dipakai untuk data kuantitatif maupun kualitatif
+2. Tidak perlu melakukan data training yang banyak
+3. Pengklasifikasian dokumen bisa dipersonalisasi, disesuaikan dengan kebutuhan setiap orang
 
 Namun juga ada kekurangannya;
-· Apabila probabilitas kondisionalnya bernilai nol, maka probabilitas prediksi juga akan bernilai nol. Dirancang untuk mendeteksi kata-kata saja, tidak bisa berupa gambar
-· Keakuratannya tidak bisa diukur menggunakan satu probabilitas saja. Butuh bukti-bukti lain untuk membuktikannya.
-· Untuk membuat keputusan, diperlukan pengetahuan awal atau pengetahuan mengenai masa sebelumnya. Keberhasilannya sangat bergantung pada pengetahuan awal tersebut
+1. Apabila probabilitas kondisionalnya bernilai nol, maka probabilitas prediksi juga akan bernilai nol. Dirancang untuk mendeteksi kata-kata saja, tidak bisa berupa gambar
+2. Keakuratannya tidak bisa diukur menggunakan satu probabilitas saja. Butuh bukti-bukti lain untuk membuktikannya.
+3. Untuk membuat keputusan, diperlukan pengetahuan awal atau pengetahuan mengenai masa sebelumnya. Keberhasilannya sangat bergantung pada pengetahuan awal tersebut
+
 
 Contoh Kasus
 Mendeteksi apakah suatu kata tergolong ke email spam atau tidak, ppt slide saya disini
